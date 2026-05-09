@@ -140,7 +140,7 @@ bash /home/loufy/Masaüstü/files/start-server.sh
 ```
 
 Ardından tarayıcınızda açın:
-- **Ana Site:** http://localhost:8080/ert-design.html
+- **Ana Site:** http://localhost:8080/index.html
 - **Admin Panel:** http://localhost:8080/admin.html
 
 ---
